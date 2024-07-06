@@ -1,3 +1,3 @@
 qualquer coisa
 
-outra coisa que eu adicionei
+outra que eu adicionei
